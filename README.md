@@ -5,6 +5,7 @@ for this you have to..
 
 type in terminal
 >>pip install pyautogui
+
 >>pip install DateTime
 
 and set home many time you want to send 
